@@ -23,7 +23,6 @@ body {
   display: flex;
   flex-direction: row;
   width: 100%;
-  
 }
 
 .create-btn {
@@ -55,6 +54,7 @@ body {
   background-color: #008F11;
   border-radius: 10px;
 }
+
 .message-box {
   border-color: #008F11;
   border-width: 2px;
